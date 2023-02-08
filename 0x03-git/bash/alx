@@ -1,6 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX School id do cool!" 
-=======
 echo "ALX School" 
->>>>>>> origin/update_script
+
